@@ -200,6 +200,9 @@ OF,"Platform, unspecified weight or dimension",A pallet equivalent shipping plat
 OK,Block,"A solid piece of a hard substance, such as granite, having one or more flat sides."
 OT,Octabin,"A standard cardboard container of large dimensions for storing for example vegetables, granules of plastics or other dry products."
 OU,"Container, outer","A type of containment box that serves as the outer shipping container, not otherwise specified as transport equipment."
+O?,"Pallet ISO 0 - 1/2 EURO Pallet", "Standard pallet with dimensions 80 X 60 cm.",
+O?,"Pallet ISO 1 - 1/1 EURO Pallet", "Standard pallet with dimensions 80 X 120 cm.",
+O?,"Pallet ISO 2 – 2/1 EURO Pallet", "Standard pallet with dimensions 100 X 120 cm.",
 P2,Pan,"A shallow, wide, open container, usually of metal."
 PA,Packet ,Small package.
 PB,"Pallet, box Combined open-ended box and pallet",
